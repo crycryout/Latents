@@ -1,0 +1,72 @@
+{
+  "latent_pt_bytes": 263556,
+  "latent_shape": [
+    4,
+    16,
+    32,
+    32
+  ],
+  "latent_dtype": "torch.float32",
+  "reference_raw_video_bytes": 3145728,
+  "reference_mp4_bytes": 12234,
+  "reference_mp4_psnr_vs_ref": 38.08553653797805,
+  "reference_mp4_mae_vs_ref": 2.124844551086426,
+  "results": [
+    {
+      "name": "mp4_h264_reference",
+      "compressed_bytes": 12234,
+      "ratio_vs_raw": 257.1299656694458,
+      "psnr_vs_ref": 38.08553653797805,
+      "mae_vs_ref": 2.124844551086426,
+      "smaller_than_mp4": false
+    },
+    {
+      "name": "fp16_lzma",
+      "compressed_bytes": 94864,
+      "compressed_kib": 92.640625,
+      "ratio_vs_raw_video": 33.160398043514924,
+      "ratio_vs_latent_pt": 2.7782509698094113,
+      "smaller_than_mp4": false,
+      "psnr_vs_ref": Infinity,
+      "mae_vs_ref": 0.0,
+      "decoded_mp4_bytes": 12234,
+      "decoded_mp4_psnr_vs_ref": 38.08553653797805
+    },
+    {
+      "name": "delta_fp16_lzma",
+      "compressed_bytes": 120652,
+      "compressed_kib": 117.82421875,
+      "ratio_vs_raw_video": 26.07273812286576,
+      "ratio_vs_latent_pt": 2.184431256837848,
+      "smaller_than_mp4": false,
+      "psnr_vs_ref": 65.40199846376123,
+      "mae_vs_ref": 0.018733978271484375,
+      "decoded_mp4_bytes": 12263,
+      "decoded_mp4_psnr_vs_ref": 38.11282135529531
+    },
+    {
+      "name": "delta_int8_lzma",
+      "compressed_bytes": 28364,
+      "compressed_kib": 27.69921875,
+      "ratio_vs_raw_video": 110.90565505570441,
+      "ratio_vs_latent_pt": 9.291919334367508,
+      "smaller_than_mp4": false,
+      "psnr_vs_ref": 45.310184464986804,
+      "mae_vs_ref": 0.7201719284057617,
+      "decoded_mp4_bytes": 13370,
+      "decoded_mp4_psnr_vs_ref": 37.741025062123235
+    },
+    {
+      "name": "delta_int4_lzma",
+      "compressed_bytes": 3840,
+      "compressed_kib": 3.75,
+      "ratio_vs_raw_video": 819.2,
+      "ratio_vs_latent_pt": 68.634375,
+      "smaller_than_mp4": true,
+      "psnr_vs_ref": 28.03196617003247,
+      "mae_vs_ref": 6.132410526275635,
+      "decoded_mp4_bytes": 22870,
+      "decoded_mp4_psnr_vs_ref": 28.006248278319813
+    }
+  ]
+}
