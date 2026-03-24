@@ -1,0 +1,17 @@
+{
+  "latent_path": "./outputs/latents_16x256x256/sample_0_latent.pt",
+  "prompt": "A serene mountain lake at sunset, gentle ripples on the water, soft golden light, cinematic wide shot.",
+  "fps": 8,
+  "image_size": [
+    256,
+    256
+  ],
+  "num_frames": 16,
+  "latent_shape": [
+    4,
+    16,
+    32,
+    32
+  ],
+  "latent_dtype": "torch.float32"
+}
