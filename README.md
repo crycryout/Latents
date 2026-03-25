@@ -59,3 +59,16 @@ High-level result on this sample:
 - A temporal latent codec can match or slightly exceed the MP4 baseline in raw-frame quality after VAE decode
 - The smallest tested temporal codec that met the MP4-quality target was `12,752 bytes`, only `518 bytes` larger than the MP4 file
 - A smaller-than-MP4 latent codec was found, but its quality dropped below the MP4 baseline
+
+## Latent Codec + MP4 Cascade Experiment
+
+See `experiments/latent_codec_mp4_cascade/` for the follow-up experiment that adds a second lossy stage:
+
+`compressed latent -> restored latent -> VAE decode -> libx264 MP4`
+
+High-level result on this sample:
+
+- Re-encoding the decoded frames with MP4 is feasible, but the second lossy stage matters
+- A latent codec that looked near-MP4-quality before re-encoding can still lose about `2 dB` after the MP4 stage
+- To keep the *final* MP4 quality close to the baseline MP4, the latent codec must be noticeably less aggressive
+- Strong latent artifacts also hurt MP4 compressibility, so the output MP4 can become larger than the baseline MP4
