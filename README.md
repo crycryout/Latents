@@ -49,3 +49,13 @@ High-level result on the long-run `128`-frame validation:
 - `fp16` latent transport at `1 Mbps` supports real-time playback
 - `fp32` latent transport at `1 Mbps` does not support sustained real-time playback
 - The boundary is determined by latent transport bitrate, not by client-side VAE decode speed on the RTX 4090
+
+## Temporal Latent Codec Experiment
+
+See `experiments/temporal_latent_codec/` for a lossy latent codec that directly exploits frame-to-frame similarity in latent space.
+
+High-level result on this sample:
+
+- A temporal latent codec can match or slightly exceed the MP4 baseline in raw-frame quality after VAE decode
+- The smallest tested temporal codec that met the MP4-quality target was `12,752 bytes`, only `518 bytes` larger than the MP4 file
+- A smaller-than-MP4 latent codec was found, but its quality dropped below the MP4 baseline
