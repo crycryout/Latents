@@ -1,0 +1,130 @@
+[
+  {
+    "frame_index": 0,
+    "ready_at": 0.2771371160633862,
+    "scheduled_at": 0.0,
+    "presented_at": 0.2771371160633862,
+    "stall_before_present_s": 0.2771371160633862,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 1,
+    "ready_at": 0.2922124769538641,
+    "scheduled_at": 0.4021371160633862,
+    "presented_at": 0.4021371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 2,
+    "ready_at": 0.3065324081107974,
+    "scheduled_at": 0.5271371160633862,
+    "presented_at": 0.5271371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 3,
+    "ready_at": 0.3207567688077688,
+    "scheduled_at": 0.6521371160633862,
+    "presented_at": 0.6521371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 4,
+    "ready_at": 0.33508415799587965,
+    "scheduled_at": 0.7771371160633862,
+    "presented_at": 0.7771371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 5,
+    "ready_at": 0.3494148328900337,
+    "scheduled_at": 0.9021371160633862,
+    "presented_at": 0.9021371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 6,
+    "ready_at": 0.3636909709312022,
+    "scheduled_at": 1.0271371160633862,
+    "presented_at": 1.0271371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 7,
+    "ready_at": 0.377953068818897,
+    "scheduled_at": 1.1521371160633862,
+    "presented_at": 1.1521371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 8,
+    "ready_at": 0.3921624319627881,
+    "scheduled_at": 1.2771371160633862,
+    "presented_at": 1.2771371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 9,
+    "ready_at": 0.4064182131551206,
+    "scheduled_at": 1.4021371160633862,
+    "presented_at": 1.4021371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 10,
+    "ready_at": 0.4206665810197592,
+    "scheduled_at": 1.5271371160633862,
+    "presented_at": 1.5271371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 11,
+    "ready_at": 0.43496297392994165,
+    "scheduled_at": 1.6521371160633862,
+    "presented_at": 1.6521371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 12,
+    "ready_at": 0.44919434981420636,
+    "scheduled_at": 1.7771371160633862,
+    "presented_at": 1.7771371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 13,
+    "ready_at": 0.46366458386182785,
+    "scheduled_at": 1.9021371160633862,
+    "presented_at": 1.9021371160633862,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 14,
+    "ready_at": 0.47787185991182923,
+    "scheduled_at": 2.027137116063386,
+    "presented_at": 2.027137116063386,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 15,
+    "ready_at": 0.4920289400033653,
+    "scheduled_at": 2.152137116063386,
+    "presented_at": 2.152137116063386,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 1
+  }
+]

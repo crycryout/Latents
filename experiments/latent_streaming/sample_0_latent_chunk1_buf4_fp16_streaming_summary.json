@@ -1,0 +1,88 @@
+{
+  "latent_path": "./outputs/latents_16x256x256/sample_0_latent.pt",
+  "latent_shape": [
+    4,
+    16,
+    32,
+    32
+  ],
+  "fps": 8,
+  "chunk_frames": 1,
+  "buffer_frames": 4,
+  "frames_decoded": 16,
+  "underflow_count": 1,
+  "total_stall_s": 0.3192518758587539,
+  "final_playback_time_s": 2.319251875858754,
+  "first_frame_latency_s": 0.3192518758587539,
+  "effective_fps": 6.898776353937689,
+  "events_preview": [
+    {
+      "frame_index": 0,
+      "ready_at": 0.319252,
+      "scheduled_at": 0.0,
+      "presented_at": 0.319252,
+      "stall_before_present_s": 0.319252,
+      "queue_size_after_pop": 0
+    },
+    {
+      "frame_index": 1,
+      "ready_at": 0.330187,
+      "scheduled_at": 0.444252,
+      "presented_at": 0.444252,
+      "stall_before_present_s": 0.0,
+      "queue_size_after_pop": 0
+    },
+    {
+      "frame_index": 2,
+      "ready_at": 0.340113,
+      "scheduled_at": 0.569252,
+      "presented_at": 0.569252,
+      "stall_before_present_s": 0.0,
+      "queue_size_after_pop": 0
+    },
+    {
+      "frame_index": 3,
+      "ready_at": 0.349897,
+      "scheduled_at": 0.694252,
+      "presented_at": 0.694252,
+      "stall_before_present_s": 0.0,
+      "queue_size_after_pop": 0
+    },
+    {
+      "frame_index": 4,
+      "ready_at": 0.359595,
+      "scheduled_at": 0.819252,
+      "presented_at": 0.819252,
+      "stall_before_present_s": 0.0,
+      "queue_size_after_pop": 0
+    },
+    {
+      "frame_index": 5,
+      "ready_at": 0.369317,
+      "scheduled_at": 0.944252,
+      "presented_at": 0.944252,
+      "stall_before_present_s": 0.0,
+      "queue_size_after_pop": 0
+    },
+    {
+      "frame_index": 6,
+      "ready_at": 0.37903,
+      "scheduled_at": 1.069252,
+      "presented_at": 1.069252,
+      "stall_before_present_s": 0.0,
+      "queue_size_after_pop": 0
+    },
+    {
+      "frame_index": 7,
+      "ready_at": 0.388727,
+      "scheduled_at": 1.194252,
+      "presented_at": 1.194252,
+      "stall_before_present_s": 0.0,
+      "queue_size_after_pop": 0
+    }
+  ],
+  "verify_full_decode": {
+    "identical": false,
+    "max_abs_diff": 1
+  }
+}
