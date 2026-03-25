@@ -1,0 +1,1026 @@
+[
+  {
+    "frame_index": 0,
+    "ready_at": 0.45418155612424016,
+    "scheduled_at": 0.0,
+    "presented_at": 0.45418155612424016,
+    "stall_before_present_s": 0.45418155612424016,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 1,
+    "ready_at": 0.48013553814962506,
+    "scheduled_at": 0.5791815561242402,
+    "presented_at": 0.5791815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 2,
+    "ready_at": 0.4903236129321158,
+    "scheduled_at": 0.7041815561242402,
+    "presented_at": 0.7041815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 3,
+    "ready_at": 0.591828275937587,
+    "scheduled_at": 0.8291815561242402,
+    "presented_at": 0.8291815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 4,
+    "ready_at": 0.7327421098016202,
+    "scheduled_at": 0.9541815561242402,
+    "presented_at": 0.9541815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 5,
+    "ready_at": 0.8754761950112879,
+    "scheduled_at": 1.0791815561242402,
+    "presented_at": 1.0791815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 6,
+    "ready_at": 1.0074162022210658,
+    "scheduled_at": 1.2041815561242402,
+    "presented_at": 1.2041815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 7,
+    "ready_at": 1.1434348719194531,
+    "scheduled_at": 1.3291815561242402,
+    "presented_at": 1.3291815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 8,
+    "ready_at": 1.2835076628252864,
+    "scheduled_at": 1.4541815561242402,
+    "presented_at": 1.4541815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 9,
+    "ready_at": 1.4202038939110935,
+    "scheduled_at": 1.5791815561242402,
+    "presented_at": 1.5791815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 10,
+    "ready_at": 1.5596853448078036,
+    "scheduled_at": 1.7041815561242402,
+    "presented_at": 1.7041815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 11,
+    "ready_at": 1.695779667235911,
+    "scheduled_at": 1.8291815561242402,
+    "presented_at": 1.8291815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 12,
+    "ready_at": 1.8420090191066265,
+    "scheduled_at": 1.9541815561242402,
+    "presented_at": 1.9541815561242402,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 13,
+    "ready_at": 1.9837198751047254,
+    "scheduled_at": 2.07918155612424,
+    "presented_at": 2.07918155612424,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 14,
+    "ready_at": 2.0927737671881914,
+    "scheduled_at": 2.20418155612424,
+    "presented_at": 2.20418155612424,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 15,
+    "ready_at": 2.256901836954057,
+    "scheduled_at": 2.32918155612424,
+    "presented_at": 2.32918155612424,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 16,
+    "ready_at": 2.363625696860254,
+    "scheduled_at": 2.45418155612424,
+    "presented_at": 2.45418155612424,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 17,
+    "ready_at": 2.5327662802301347,
+    "scheduled_at": 2.57918155612424,
+    "presented_at": 2.57918155612424,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 18,
+    "ready_at": 2.640337104909122,
+    "scheduled_at": 2.70418155612424,
+    "presented_at": 2.70418155612424,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 19,
+    "ready_at": 2.8106793430633843,
+    "scheduled_at": 2.82918155612424,
+    "presented_at": 2.82918155612424,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 20,
+    "ready_at": 2.917957779020071,
+    "scheduled_at": 2.95418155612424,
+    "presented_at": 2.95418155612424,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 21,
+    "ready_at": 3.0903010591864586,
+    "scheduled_at": 3.07918155612424,
+    "presented_at": 3.0903010591864586,
+    "stall_before_present_s": 0.011119503062218428,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 22,
+    "ready_at": 3.1948147951625288,
+    "scheduled_at": 3.2153010591864586,
+    "presented_at": 3.2153010591864586,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 23,
+    "ready_at": 3.370077112223953,
+    "scheduled_at": 3.3403010591864586,
+    "presented_at": 3.370077112223953,
+    "stall_before_present_s": 0.02977605303749442,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 24,
+    "ready_at": 3.470941999927163,
+    "scheduled_at": 3.495077112223953,
+    "presented_at": 3.495077112223953,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 25,
+    "ready_at": 3.6414073267951608,
+    "scheduled_at": 3.620077112223953,
+    "presented_at": 3.6414073267951608,
+    "stall_before_present_s": 0.021330214571207762,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 26,
+    "ready_at": 3.7475011218339205,
+    "scheduled_at": 3.7664073267951608,
+    "presented_at": 3.7664073267951608,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 27,
+    "ready_at": 3.921369355171919,
+    "scheduled_at": 3.8914073267951608,
+    "presented_at": 3.921369355171919,
+    "stall_before_present_s": 0.0299620283767581,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 28,
+    "ready_at": 4.024509286042303,
+    "scheduled_at": 4.046369355171919,
+    "presented_at": 4.046369355171919,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 29,
+    "ready_at": 4.193156229797751,
+    "scheduled_at": 4.171369355171919,
+    "presented_at": 4.193156229797751,
+    "stall_before_present_s": 0.021786874625831842,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 30,
+    "ready_at": 4.302879434078932,
+    "scheduled_at": 4.318156229797751,
+    "presented_at": 4.318156229797751,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 31,
+    "ready_at": 4.475442281924188,
+    "scheduled_at": 4.443156229797751,
+    "presented_at": 4.475442281924188,
+    "stall_before_present_s": 0.032286052126437426,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 32,
+    "ready_at": 4.584262704011053,
+    "scheduled_at": 4.600442281924188,
+    "presented_at": 4.600442281924188,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 33,
+    "ready_at": 4.755922440905124,
+    "scheduled_at": 4.725442281924188,
+    "presented_at": 4.755922440905124,
+    "stall_before_present_s": 0.030480158980935812,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 34,
+    "ready_at": 4.863179288804531,
+    "scheduled_at": 4.880922440905124,
+    "presented_at": 4.880922440905124,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 35,
+    "ready_at": 5.03260360006243,
+    "scheduled_at": 5.005922440905124,
+    "presented_at": 5.03260360006243,
+    "stall_before_present_s": 0.026681159157305956,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 36,
+    "ready_at": 5.138110033236444,
+    "scheduled_at": 5.15760360006243,
+    "presented_at": 5.15760360006243,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 37,
+    "ready_at": 5.315048273187131,
+    "scheduled_at": 5.28260360006243,
+    "presented_at": 5.315048273187131,
+    "stall_before_present_s": 0.032444673124700785,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 38,
+    "ready_at": 5.424367451108992,
+    "scheduled_at": 5.440048273187131,
+    "presented_at": 5.440048273187131,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 39,
+    "ready_at": 5.571639709174633,
+    "scheduled_at": 5.565048273187131,
+    "presented_at": 5.571639709174633,
+    "stall_before_present_s": 0.0065914359875023365,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 40,
+    "ready_at": 5.71630475204438,
+    "scheduled_at": 5.696639709174633,
+    "presented_at": 5.71630475204438,
+    "stall_before_present_s": 0.019665042869746685,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 41,
+    "ready_at": 5.8224965231493115,
+    "scheduled_at": 5.84130475204438,
+    "presented_at": 5.84130475204438,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 42,
+    "ready_at": 6.005913440138102,
+    "scheduled_at": 5.96630475204438,
+    "presented_at": 6.005913440138102,
+    "stall_before_present_s": 0.03960868809372187,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 43,
+    "ready_at": 6.106551097240299,
+    "scheduled_at": 6.130913440138102,
+    "presented_at": 6.130913440138102,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 44,
+    "ready_at": 6.277101336978376,
+    "scheduled_at": 6.255913440138102,
+    "presented_at": 6.277101336978376,
+    "stall_before_present_s": 0.021187896840274334,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 45,
+    "ready_at": 6.383051314856857,
+    "scheduled_at": 6.402101336978376,
+    "presented_at": 6.402101336978376,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 46,
+    "ready_at": 6.552735656965524,
+    "scheduled_at": 6.527101336978376,
+    "presented_at": 6.552735656965524,
+    "stall_before_present_s": 0.025634319987148046,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 47,
+    "ready_at": 6.652687767986208,
+    "scheduled_at": 6.677735656965524,
+    "presented_at": 6.677735656965524,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 48,
+    "ready_at": 6.822119263932109,
+    "scheduled_at": 6.802735656965524,
+    "presented_at": 6.822119263932109,
+    "stall_before_present_s": 0.01938360696658492,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 49,
+    "ready_at": 6.9287631758488715,
+    "scheduled_at": 6.947119263932109,
+    "presented_at": 6.947119263932109,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 50,
+    "ready_at": 7.09975015418604,
+    "scheduled_at": 7.072119263932109,
+    "presented_at": 7.09975015418604,
+    "stall_before_present_s": 0.027630890253931284,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 51,
+    "ready_at": 7.211921403184533,
+    "scheduled_at": 7.22475015418604,
+    "presented_at": 7.22475015418604,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 52,
+    "ready_at": 7.379822927061468,
+    "scheduled_at": 7.34975015418604,
+    "presented_at": 7.379822927061468,
+    "stall_before_present_s": 0.0300727728754282,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 53,
+    "ready_at": 7.488032322842628,
+    "scheduled_at": 7.504822927061468,
+    "presented_at": 7.504822927061468,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 54,
+    "ready_at": 7.659282655920833,
+    "scheduled_at": 7.629822927061468,
+    "presented_at": 7.659282655920833,
+    "stall_before_present_s": 0.029459728859364986,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 55,
+    "ready_at": 7.765088949818164,
+    "scheduled_at": 7.784282655920833,
+    "presented_at": 7.784282655920833,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 56,
+    "ready_at": 7.933408827986568,
+    "scheduled_at": 7.909282655920833,
+    "presented_at": 7.933408827986568,
+    "stall_before_present_s": 0.024126172065734863,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 57,
+    "ready_at": 8.034891995135695,
+    "scheduled_at": 8.058408827986568,
+    "presented_at": 8.058408827986568,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 58,
+    "ready_at": 8.2058737562038,
+    "scheduled_at": 8.183408827986568,
+    "presented_at": 8.2058737562038,
+    "stall_before_present_s": 0.022464928217232227,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 59,
+    "ready_at": 8.310873803216964,
+    "scheduled_at": 8.3308737562038,
+    "presented_at": 8.3308737562038,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 60,
+    "ready_at": 8.482387653086334,
+    "scheduled_at": 8.4558737562038,
+    "presented_at": 8.482387653086334,
+    "stall_before_present_s": 0.026513896882534027,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 61,
+    "ready_at": 8.5933753461577,
+    "scheduled_at": 8.607387653086334,
+    "presented_at": 8.607387653086334,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 62,
+    "ready_at": 8.763612337876111,
+    "scheduled_at": 8.732387653086334,
+    "presented_at": 8.763612337876111,
+    "stall_before_present_s": 0.031224684789776802,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 63,
+    "ready_at": 8.870951585937291,
+    "scheduled_at": 8.888612337876111,
+    "presented_at": 8.888612337876111,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 64,
+    "ready_at": 9.044845461845398,
+    "scheduled_at": 9.013612337876111,
+    "presented_at": 9.044845461845398,
+    "stall_before_present_s": 0.03123312396928668,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 65,
+    "ready_at": 9.147320684976876,
+    "scheduled_at": 9.169845461845398,
+    "presented_at": 9.169845461845398,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 66,
+    "ready_at": 9.315637940075248,
+    "scheduled_at": 9.294845461845398,
+    "presented_at": 9.315637940075248,
+    "stall_before_present_s": 0.02079247822985053,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 67,
+    "ready_at": 9.424701440148056,
+    "scheduled_at": 9.440637940075248,
+    "presented_at": 9.440637940075248,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 68,
+    "ready_at": 9.595391685143113,
+    "scheduled_at": 9.565637940075248,
+    "presented_at": 9.595391685143113,
+    "stall_before_present_s": 0.029753745067864656,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 69,
+    "ready_at": 9.700676647946239,
+    "scheduled_at": 9.720391685143113,
+    "presented_at": 9.720391685143113,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 70,
+    "ready_at": 9.875555340200663,
+    "scheduled_at": 9.845391685143113,
+    "presented_at": 9.875555340200663,
+    "stall_before_present_s": 0.030163655057549477,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 71,
+    "ready_at": 9.978975146077573,
+    "scheduled_at": 10.000555340200663,
+    "presented_at": 10.000555340200663,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 72,
+    "ready_at": 10.148454670794308,
+    "scheduled_at": 10.125555340200663,
+    "presented_at": 10.148454670794308,
+    "stall_before_present_s": 0.022899330593645573,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 73,
+    "ready_at": 10.254963321145624,
+    "scheduled_at": 10.273454670794308,
+    "presented_at": 10.273454670794308,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 74,
+    "ready_at": 10.423189021181315,
+    "scheduled_at": 10.398454670794308,
+    "presented_at": 10.423189021181315,
+    "stall_before_present_s": 0.024734350387006998,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 75,
+    "ready_at": 10.532099238131195,
+    "scheduled_at": 10.548189021181315,
+    "presented_at": 10.548189021181315,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 76,
+    "ready_at": 10.699778140988201,
+    "scheduled_at": 10.673189021181315,
+    "presented_at": 10.699778140988201,
+    "stall_before_present_s": 0.02658911980688572,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 77,
+    "ready_at": 10.80847513396293,
+    "scheduled_at": 10.824778140988201,
+    "presented_at": 10.824778140988201,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 78,
+    "ready_at": 10.985380030237138,
+    "scheduled_at": 10.949778140988201,
+    "presented_at": 10.985380030237138,
+    "stall_before_present_s": 0.03560188924893737,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 79,
+    "ready_at": 11.085713271051645,
+    "scheduled_at": 11.110380030237138,
+    "presented_at": 11.110380030237138,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 80,
+    "ready_at": 11.257779937237501,
+    "scheduled_at": 11.235380030237138,
+    "presented_at": 11.257779937237501,
+    "stall_before_present_s": 0.022399907000362873,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 81,
+    "ready_at": 11.362090439070016,
+    "scheduled_at": 11.382779937237501,
+    "presented_at": 11.382779937237501,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 82,
+    "ready_at": 11.52533840900287,
+    "scheduled_at": 11.507779937237501,
+    "presented_at": 11.52533840900287,
+    "stall_before_present_s": 0.017558471765369177,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 83,
+    "ready_at": 11.639684354886413,
+    "scheduled_at": 11.65033840900287,
+    "presented_at": 11.65033840900287,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 84,
+    "ready_at": 11.807865115813911,
+    "scheduled_at": 11.77533840900287,
+    "presented_at": 11.807865115813911,
+    "stall_before_present_s": 0.03252670681104064,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 85,
+    "ready_at": 11.917127603199333,
+    "scheduled_at": 11.932865115813911,
+    "presented_at": 11.932865115813911,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 86,
+    "ready_at": 12.087957073003054,
+    "scheduled_at": 12.057865115813911,
+    "presented_at": 12.087957073003054,
+    "stall_before_present_s": 0.030091957189142704,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 87,
+    "ready_at": 12.193513774778694,
+    "scheduled_at": 12.212957073003054,
+    "presented_at": 12.212957073003054,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 88,
+    "ready_at": 12.363395222928375,
+    "scheduled_at": 12.337957073003054,
+    "presented_at": 12.363395222928375,
+    "stall_before_present_s": 0.02543814992532134,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 89,
+    "ready_at": 12.470453922171146,
+    "scheduled_at": 12.488395222928375,
+    "presented_at": 12.488395222928375,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 90,
+    "ready_at": 12.640561542008072,
+    "scheduled_at": 12.613395222928375,
+    "presented_at": 12.640561542008072,
+    "stall_before_present_s": 0.027166319079697132,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 91,
+    "ready_at": 12.748711409978569,
+    "scheduled_at": 12.765561542008072,
+    "presented_at": 12.765561542008072,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 92,
+    "ready_at": 12.92135677114129,
+    "scheduled_at": 12.890561542008072,
+    "presented_at": 12.92135677114129,
+    "stall_before_present_s": 0.030795229133218527,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 93,
+    "ready_at": 13.029402278829366,
+    "scheduled_at": 13.04635677114129,
+    "presented_at": 13.04635677114129,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 94,
+    "ready_at": 13.178217985201627,
+    "scheduled_at": 13.17135677114129,
+    "presented_at": 13.178217985201627,
+    "stall_before_present_s": 0.006861214060336351,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 95,
+    "ready_at": 13.31677665002644,
+    "scheduled_at": 13.303217985201627,
+    "presented_at": 13.31677665002644,
+    "stall_before_present_s": 0.013558664824813604,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 96,
+    "ready_at": 13.453430675901473,
+    "scheduled_at": 13.44177665002644,
+    "presented_at": 13.453430675901473,
+    "stall_before_present_s": 0.011654025875031948,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 97,
+    "ready_at": 13.593254658859223,
+    "scheduled_at": 13.578430675901473,
+    "presented_at": 13.593254658859223,
+    "stall_before_present_s": 0.014823982957750559,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 98,
+    "ready_at": 13.73003869317472,
+    "scheduled_at": 13.718254658859223,
+    "presented_at": 13.73003869317472,
+    "stall_before_present_s": 0.011784034315496683,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 99,
+    "ready_at": 13.86934720305726,
+    "scheduled_at": 13.85503869317472,
+    "presented_at": 13.86934720305726,
+    "stall_before_present_s": 0.01430850988253951,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 100,
+    "ready_at": 14.016209570225328,
+    "scheduled_at": 13.99434720305726,
+    "presented_at": 14.016209570225328,
+    "stall_before_present_s": 0.021862367168068886,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 101,
+    "ready_at": 14.151379520073533,
+    "scheduled_at": 14.141209570225328,
+    "presented_at": 14.151379520073533,
+    "stall_before_present_s": 0.010169949848204851,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 102,
+    "ready_at": 14.292480499017984,
+    "scheduled_at": 14.276379520073533,
+    "presented_at": 14.292480499017984,
+    "stall_before_present_s": 0.016100978944450617,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 103,
+    "ready_at": 14.428274527192116,
+    "scheduled_at": 14.417480499017984,
+    "presented_at": 14.428274527192116,
+    "stall_before_present_s": 0.010794028174132109,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 104,
+    "ready_at": 14.569009688217193,
+    "scheduled_at": 14.553274527192116,
+    "presented_at": 14.569009688217193,
+    "stall_before_present_s": 0.015735161025077105,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 105,
+    "ready_at": 14.708586050197482,
+    "scheduled_at": 14.694009688217193,
+    "presented_at": 14.708586050197482,
+    "stall_before_present_s": 0.01457636198028922,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 106,
+    "ready_at": 14.843186657875776,
+    "scheduled_at": 14.833586050197482,
+    "presented_at": 14.843186657875776,
+    "stall_before_present_s": 0.009600607678294182,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 107,
+    "ready_at": 14.985456359107047,
+    "scheduled_at": 14.968186657875776,
+    "presented_at": 14.985456359107047,
+    "stall_before_present_s": 0.01726970123127103,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 108,
+    "ready_at": 15.119375683832914,
+    "scheduled_at": 15.110456359107047,
+    "presented_at": 15.119375683832914,
+    "stall_before_present_s": 0.008919324725866318,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 109,
+    "ready_at": 15.259783832821995,
+    "scheduled_at": 15.244375683832914,
+    "presented_at": 15.259783832821995,
+    "stall_before_present_s": 0.015408148989081383,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 110,
+    "ready_at": 15.399550457019359,
+    "scheduled_at": 15.384783832821995,
+    "presented_at": 15.399550457019359,
+    "stall_before_present_s": 0.014766624197363853,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 111,
+    "ready_at": 15.536263465881348,
+    "scheduled_at": 15.524550457019359,
+    "presented_at": 15.536263465881348,
+    "stall_before_present_s": 0.011713008861988783,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 112,
+    "ready_at": 15.684369983151555,
+    "scheduled_at": 15.661263465881348,
+    "presented_at": 15.684369983151555,
+    "stall_before_present_s": 0.023106517270207405,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 113,
+    "ready_at": 15.819341456983238,
+    "scheduled_at": 15.809369983151555,
+    "presented_at": 15.819341456983238,
+    "stall_before_present_s": 0.009971473831683397,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 114,
+    "ready_at": 15.95541339693591,
+    "scheduled_at": 15.944341456983238,
+    "presented_at": 15.95541339693591,
+    "stall_before_present_s": 0.011071939952671528,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 115,
+    "ready_at": 16.09515533503145,
+    "scheduled_at": 16.08041339693591,
+    "presented_at": 16.09515533503145,
+    "stall_before_present_s": 0.014741938095539808,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 116,
+    "ready_at": 16.22784425318241,
+    "scheduled_at": 16.22015533503145,
+    "presented_at": 16.22784425318241,
+    "stall_before_present_s": 0.007688918150961399,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 117,
+    "ready_at": 16.37180240917951,
+    "scheduled_at": 16.35284425318241,
+    "presented_at": 16.37180240917951,
+    "stall_before_present_s": 0.018958155997097492,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 118,
+    "ready_at": 16.502917794976383,
+    "scheduled_at": 16.49680240917951,
+    "presented_at": 16.502917794976383,
+    "stall_before_present_s": 0.006115385796874762,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 119,
+    "ready_at": 16.642844911199063,
+    "scheduled_at": 16.627917794976383,
+    "presented_at": 16.642844911199063,
+    "stall_before_present_s": 0.014927116222679615,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 120,
+    "ready_at": 16.780146644916385,
+    "scheduled_at": 16.767844911199063,
+    "presented_at": 16.780146644916385,
+    "stall_before_present_s": 0.01230173371732235,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 121,
+    "ready_at": 16.921073058154434,
+    "scheduled_at": 16.905146644916385,
+    "presented_at": 16.921073058154434,
+    "stall_before_present_s": 0.015926413238048553,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 122,
+    "ready_at": 17.060301353223622,
+    "scheduled_at": 17.046073058154434,
+    "presented_at": 17.060301353223622,
+    "stall_before_present_s": 0.01422829506918788,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 123,
+    "ready_at": 17.200042465236038,
+    "scheduled_at": 17.185301353223622,
+    "presented_at": 17.200042465236038,
+    "stall_before_present_s": 0.014741112012416124,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 124,
+    "ready_at": 17.339522606227547,
+    "scheduled_at": 17.325042465236038,
+    "presented_at": 17.339522606227547,
+    "stall_before_present_s": 0.01448014099150896,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 125,
+    "ready_at": 17.48051459621638,
+    "scheduled_at": 17.464522606227547,
+    "presented_at": 17.48051459621638,
+    "stall_before_present_s": 0.015991989988833666,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 126,
+    "ready_at": 17.611950581893325,
+    "scheduled_at": 17.60551459621638,
+    "presented_at": 17.611950581893325,
+    "stall_before_present_s": 0.006435985676944256,
+    "queue_size_after_pop": 0
+  },
+  {
+    "frame_index": 127,
+    "ready_at": 17.734939706046134,
+    "scheduled_at": 17.736950581893325,
+    "presented_at": 17.736950581893325,
+    "stall_before_present_s": 0.0,
+    "queue_size_after_pop": 1
+  }
+]

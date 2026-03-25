@@ -1,0 +1,73 @@
+{
+  "label": "net1mbps_fp16_r8",
+  "latent_path": "./outputs/latents_16x256x256/sample_0_latent.pt",
+  "latent_shape": [
+    4,
+    128,
+    32,
+    32
+  ],
+  "fps": 8,
+  "repeat_times": 8,
+  "video_duration_s": 16.0,
+  "chunk_frames": 1,
+  "wire_dtype": "fp16",
+  "decode_dtype": "fp16",
+  "bandwidth_mbps_limit": 1.0,
+  "per_chunk_delay_ms": 5.0,
+  "socket_chunk_bytes": 4096,
+  "experiment_wall_s": 9.376716490834951,
+  "server": {
+    "chunks_sent": 128,
+    "payload_bytes": 1048576,
+    "header_bytes": 19343,
+    "wire_bytes": 1069467,
+    "send_duration_s": 9.29262176901102,
+    "payload_required_mbps_for_playback": 0.524288,
+    "wire_required_mbps_for_playback": 0.5347335,
+    "achieved_wire_mbps": 0.9207020594049805
+  },
+  "client": {
+    "chunks_received": 128,
+    "payload_bytes": 1048576,
+    "header_bytes": 19291,
+    "wire_bytes": 1069403,
+    "receive_duration_s": 9.220909296069294,
+    "achieved_wire_mbps": 0.9278069792582101,
+    "avg_network_latency_ms": 75.04584858907037,
+    "max_network_latency_ms": 93.98438269272447,
+    "steady_chunk_receive_fps_mean": 13.773045143621333,
+    "steady_chunk_receive_fps_median": 13.547264754245983
+  },
+  "decode": {
+    "frames_decoded": 128,
+    "first_frame_ready_s": 0.39287069672718644,
+    "last_frame_ready_s": 9.309722452890128,
+    "steady_frame_ready_fps_mean": 14.242695008608067,
+    "steady_frame_ready_fps_median": 15.167648272306952,
+    "chunk_decode_ms_mean": 19.0891326747078,
+    "chunk_decode_ms_max": 320.20559813827276,
+    "chunks_decoded": 128,
+    "last_chunk_decode_ready_s": 9.309722452890128
+  },
+  "playback": {
+    "underflow_count": 1,
+    "startup_only_underflow": true,
+    "total_stall_s": 0.39287069672718644,
+    "first_frame_latency_s": 0.39287069672718644,
+    "final_playback_time_s": 16.392870696727186,
+    "effective_fps": 7.808272411100944
+  },
+  "system": {
+    "process_cpu_percent_avg": 342.64731182795697,
+    "process_cpu_percent_max": 2232.7,
+    "process_rss_mb_max": 1280.33984375,
+    "cuda_max_memory_allocated_mb": 333.34228515625,
+    "cuda_max_memory_reserved_mb": 454.0
+  },
+  "real_time_supported": true,
+  "verify_full_decode": {
+    "identical": false,
+    "max_abs_diff": 1
+  }
+}

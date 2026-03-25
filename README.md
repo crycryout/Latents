@@ -39,3 +39,13 @@ High-level result on this sample:
 - Playback can start from decoded raw frames without waiting for a full-video decode
 - On an RTX 4090, single-frame streaming decode reaches about `102 fps` in `fp16` and about `70 fps` in `fp32`
 - The target playback rate is only `8 fps`, so this sample supports real-time streaming playback after the initial first-frame latency
+
+## Network Latent Streaming Experiment
+
+See `experiments/network_latent_streaming/` for a server/client prototype where the server transmits latent chunks over a network and the client decodes and plays raw frames locally.
+
+High-level result on the long-run `128`-frame validation:
+
+- `fp16` latent transport at `1 Mbps` supports real-time playback
+- `fp32` latent transport at `1 Mbps` does not support sustained real-time playback
+- The boundary is determined by latent transport bitrate, not by client-side VAE decode speed on the RTX 4090
