@@ -1,0 +1,18 @@
+{
+  "group": 7,
+  "variant": 1,
+  "seed": 20261031,
+  "prompt": "An ice cave with crystalline walls under aurora light, skaters carving luminous trails, drifting snow powder, glittering frost, translucent ice textures, mirrored reflections, moving spotlights, camera flying through arches and tunnels, rich blue green violet palette, intricate detail everywhere.",
+  "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_07/group_07_variant_01_seed_20261031.mp4",
+  "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_07/group_07_variant_01_seed_20261031_latent.pt",
+  "video_bytes": 5144813,
+  "latent_bytes": 5193665,
+  "latent_shape": [
+    16,
+    13,
+    60,
+    104
+  ],
+  "fps": 16,
+  "elapsed_s": 108.2569227218628
+}

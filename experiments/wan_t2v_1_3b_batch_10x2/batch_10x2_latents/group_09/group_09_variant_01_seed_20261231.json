@@ -1,0 +1,18 @@
+{
+  "group": 9,
+  "variant": 1,
+  "seed": 20261231,
+  "prompt": "A street dance battle in a graffiti tunnel, colorful paint particles bursting on each beat, laser strips strobing, sweat droplets, patterned fabrics, chain jewelry, fast footwork, camera circling the dancers, strong contrast, saturated color splashes, fine texture and high-frequency motion.",
+  "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_09/group_09_variant_01_seed_20261231.mp4",
+  "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_09/group_09_variant_01_seed_20261231_latent.pt",
+  "video_bytes": 5915623,
+  "latent_bytes": 5193665,
+  "latent_shape": [
+    16,
+    13,
+    60,
+    104
+  ],
+  "fps": 16,
+  "elapsed_s": 112.68250918388367
+}

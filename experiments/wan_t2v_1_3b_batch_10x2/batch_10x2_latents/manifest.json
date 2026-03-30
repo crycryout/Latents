@@ -1,0 +1,373 @@
+{
+  "task": "t2v-1.3B",
+  "size": "832*480",
+  "frame_num": 49,
+  "sample_steps": 30,
+  "sample_shift": 8.0,
+  "guide_scale": 6.0,
+  "sample_solver": "unipc",
+  "sample_fps": 16,
+  "videos": [
+    {
+      "group": 1,
+      "variant": 1,
+      "seed": 20260431,
+      "prompt": "A kinetic Rio carnival parade at night with feathered dancers, mirrored floats, spinning confetti cannons, wet reflective pavement, saturated neon magenta and cyan lights, intricate beadwork, sequins, smoke bursts, handheld camera energy, rapid costume motion, rich textures, dense crowd choreography.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_01/group_01_variant_01_seed_20260431.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_01/group_01_variant_01_seed_20260431_latent.pt",
+      "video_bytes": 5282008,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 123.68984866142273
+    },
+    {
+      "group": 1,
+      "variant": 2,
+      "seed": 20260432,
+      "prompt": "A kinetic Rio carnival parade at night with feathered dancers, mirrored floats, spinning confetti cannons, wet reflective pavement, saturated neon magenta and cyan lights, intricate beadwork, sequins, smoke bursts, handheld camera energy, rapid costume motion, rich textures, dense crowd choreography.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_01/group_01_variant_02_seed_20260432.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_01/group_01_variant_02_seed_20260432_latent.pt",
+      "video_bytes": 5571615,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 130.17852592468262
+    },
+    {
+      "group": 2,
+      "variant": 1,
+      "seed": 20260531,
+      "prompt": "A bioluminescent coral reef canyon filled with schools of tropical fish, jellyfish pulses, drifting bubbles, iridescent scales, branching corals, caustic light patterns, colorful sea fans, tiny particles in the water, sweeping camera motion, extremely vivid color separation, high texture complexity.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_02/group_02_variant_01_seed_20260531.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_02/group_02_variant_01_seed_20260531_latent.pt",
+      "video_bytes": 4940132,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 126.4413092136383
+    },
+    {
+      "group": 2,
+      "variant": 2,
+      "seed": 20260532,
+      "prompt": "A bioluminescent coral reef canyon filled with schools of tropical fish, jellyfish pulses, drifting bubbles, iridescent scales, branching corals, caustic light patterns, colorful sea fans, tiny particles in the water, sweeping camera motion, extremely vivid color separation, high texture complexity.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_02/group_02_variant_02_seed_20260532.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_02/group_02_variant_02_seed_20260532_latent.pt",
+      "video_bytes": 4325071,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 122.20203113555908
+    },
+    {
+      "group": 3,
+      "variant": 1,
+      "seed": 20260631,
+      "prompt": "A futuristic cyberpunk street market in heavy rain, holographic signs flickering, steam vents, motorbikes splashing through puddles, LED umbrellas, animated billboards, reflective chrome stalls, people weaving through the crowd, strong motion parallax, dense fine detail, vibrant red blue green lighting.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_03/group_03_variant_01_seed_20260631.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_03/group_03_variant_01_seed_20260631_latent.pt",
+      "video_bytes": 4497742,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 120.9428026676178
+    },
+    {
+      "group": 3,
+      "variant": 2,
+      "seed": 20260632,
+      "prompt": "A futuristic cyberpunk street market in heavy rain, holographic signs flickering, steam vents, motorbikes splashing through puddles, LED umbrellas, animated billboards, reflective chrome stalls, people weaving through the crowd, strong motion parallax, dense fine detail, vibrant red blue green lighting.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_03/group_03_variant_02_seed_20260632.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_03/group_03_variant_02_seed_20260632_latent.pt",
+      "video_bytes": 5100634,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 122.26711297035217
+    },
+    {
+      "group": 4,
+      "variant": 1,
+      "seed": 20260731,
+      "prompt": "A volcanic dragon festival at dusk, giant silk dragons coiling through the sky, fireworks exploding, ash sparks, glowing lanterns, embroidered robes whipping in the wind, molten rock textures, swirling smoke, dramatic camera moves, highly dynamic scene, vivid oranges, teal shadows, rich microdetail.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_04/group_04_variant_01_seed_20260731.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_04/group_04_variant_01_seed_20260731_latent.pt",
+      "video_bytes": 3947885,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 122.4950966835022
+    },
+    {
+      "group": 4,
+      "variant": 2,
+      "seed": 20260732,
+      "prompt": "A volcanic dragon festival at dusk, giant silk dragons coiling through the sky, fireworks exploding, ash sparks, glowing lanterns, embroidered robes whipping in the wind, molten rock textures, swirling smoke, dramatic camera moves, highly dynamic scene, vivid oranges, teal shadows, rich microdetail.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_04/group_04_variant_02_seed_20260732.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_04/group_04_variant_02_seed_20260732_latent.pt",
+      "video_bytes": 4911899,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 118.75916004180908
+    },
+    {
+      "group": 5,
+      "variant": 1,
+      "seed": 20260831,
+      "prompt": "A glass greenhouse jungle during a thunderstorm, exotic flowers opening and closing, butterflies swarming, rain racing down the panes, lightning flashes refracting through glass, wet leaves, moss, water droplets, layered foliage motion, lush saturated greens and flowers, extremely detailed textures.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_05/group_05_variant_01_seed_20260831.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_05/group_05_variant_01_seed_20260831_latent.pt",
+      "video_bytes": 4821610,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 117.58097505569458
+    },
+    {
+      "group": 5,
+      "variant": 2,
+      "seed": 20260832,
+      "prompt": "A glass greenhouse jungle during a thunderstorm, exotic flowers opening and closing, butterflies swarming, rain racing down the panes, lightning flashes refracting through glass, wet leaves, moss, water droplets, layered foliage motion, lush saturated greens and flowers, extremely detailed textures.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_05/group_05_variant_02_seed_20260832.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_05/group_05_variant_02_seed_20260832_latent.pt",
+      "video_bytes": 3838570,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 118.8594901561737
+    },
+    {
+      "group": 6,
+      "variant": 1,
+      "seed": 20260931,
+      "prompt": "A surreal desert fashion procession with mirrored fabric banners, kaleidoscopic dust devils, reflective jewelry, embroidered cloth, iridescent beetles, colorful silk ribbons, golden hour sunlight, rolling dunes, moving shadows, highly dynamic cloth simulation, dense high-frequency patterns.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_06/group_06_variant_01_seed_20260931.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_06/group_06_variant_01_seed_20260931_latent.pt",
+      "video_bytes": 3588437,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 109.52116131782532
+    },
+    {
+      "group": 6,
+      "variant": 2,
+      "seed": 20260932,
+      "prompt": "A surreal desert fashion procession with mirrored fabric banners, kaleidoscopic dust devils, reflective jewelry, embroidered cloth, iridescent beetles, colorful silk ribbons, golden hour sunlight, rolling dunes, moving shadows, highly dynamic cloth simulation, dense high-frequency patterns.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_06/group_06_variant_02_seed_20260932.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_06/group_06_variant_02_seed_20260932_latent.pt",
+      "video_bytes": 4241139,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 118.21806979179382
+    },
+    {
+      "group": 7,
+      "variant": 1,
+      "seed": 20261031,
+      "prompt": "An ice cave with crystalline walls under aurora light, skaters carving luminous trails, drifting snow powder, glittering frost, translucent ice textures, mirrored reflections, moving spotlights, camera flying through arches and tunnels, rich blue green violet palette, intricate detail everywhere.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_07/group_07_variant_01_seed_20261031.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_07/group_07_variant_01_seed_20261031_latent.pt",
+      "video_bytes": 5144813,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 108.2569227218628
+    },
+    {
+      "group": 7,
+      "variant": 2,
+      "seed": 20261032,
+      "prompt": "An ice cave with crystalline walls under aurora light, skaters carving luminous trails, drifting snow powder, glittering frost, translucent ice textures, mirrored reflections, moving spotlights, camera flying through arches and tunnels, rich blue green violet palette, intricate detail everywhere.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_07/group_07_variant_02_seed_20261032.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_07/group_07_variant_02_seed_20261032_latent.pt",
+      "video_bytes": 4343792,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 113.29378700256348
+    },
+    {
+      "group": 8,
+      "variant": 1,
+      "seed": 20261131,
+      "prompt": "A mechanical clockwork city square at sunrise, brass birds taking flight, gears spinning in towers, steam valves pulsing, polished copper surfaces, stained glass reflections, people in ornate coats crossing the plaza, rotating signs and moving trams, warm light, dense texture and motion.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_08/group_08_variant_01_seed_20261131.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_08/group_08_variant_01_seed_20261131_latent.pt",
+      "video_bytes": 4121605,
+      "latent_bytes": 5193601,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 116.78774762153625
+    },
+    {
+      "group": 8,
+      "variant": 2,
+      "seed": 20261132,
+      "prompt": "A mechanical clockwork city square at sunrise, brass birds taking flight, gears spinning in towers, steam valves pulsing, polished copper surfaces, stained glass reflections, people in ornate coats crossing the plaza, rotating signs and moving trams, warm light, dense texture and motion.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_08/group_08_variant_02_seed_20261132.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_08/group_08_variant_02_seed_20261132_latent.pt",
+      "video_bytes": 4103209,
+      "latent_bytes": 5193601,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 114.06153345108032
+    },
+    {
+      "group": 9,
+      "variant": 1,
+      "seed": 20261231,
+      "prompt": "A street dance battle in a graffiti tunnel, colorful paint particles bursting on each beat, laser strips strobing, sweat droplets, patterned fabrics, chain jewelry, fast footwork, camera circling the dancers, strong contrast, saturated color splashes, fine texture and high-frequency motion.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_09/group_09_variant_01_seed_20261231.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_09/group_09_variant_01_seed_20261231_latent.pt",
+      "video_bytes": 5915623,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 112.68250918388367
+    },
+    {
+      "group": 9,
+      "variant": 2,
+      "seed": 20261232,
+      "prompt": "A street dance battle in a graffiti tunnel, colorful paint particles bursting on each beat, laser strips strobing, sweat droplets, patterned fabrics, chain jewelry, fast footwork, camera circling the dancers, strong contrast, saturated color splashes, fine texture and high-frequency motion.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_09/group_09_variant_02_seed_20261232.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_09/group_09_variant_02_seed_20261232_latent.pt",
+      "video_bytes": 4896756,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 118.83060693740845
+    },
+    {
+      "group": 10,
+      "variant": 1,
+      "seed": 20261331,
+      "prompt": "A fantasy forest ritual with glowing insects, swirling leaves, embroidered ceremonial capes, luminous mushrooms, moving fog, sparks from a fire circle, carved wooden masks, flickering torchlight, rich emerald and amber tones, layered motion, highly detailed bark, fabric, and foliage textures.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_10/group_10_variant_01_seed_20261331.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_10/group_10_variant_01_seed_20261331_latent.pt",
+      "video_bytes": 3987124,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 118.52958941459656
+    },
+    {
+      "group": 10,
+      "variant": 2,
+      "seed": 20261332,
+      "prompt": "A fantasy forest ritual with glowing insects, swirling leaves, embroidered ceremonial capes, luminous mushrooms, moving fog, sparks from a fire circle, carved wooden masks, flickering torchlight, rich emerald and amber tones, layered motion, highly detailed bark, fabric, and foliage textures.",
+      "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_10/group_10_variant_02_seed_20261332.mp4",
+      "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_10/group_10_variant_02_seed_20261332_latent.pt",
+      "video_bytes": 4286361,
+      "latent_bytes": 5193665,
+      "latent_shape": [
+        16,
+        13,
+        60,
+        104
+      ],
+      "fps": 16,
+      "elapsed_s": 121.11949920654297
+    }
+  ],
+  "total_elapsed_s": 2374.8921761512756
+}

@@ -1,0 +1,18 @@
+{
+  "group": 2,
+  "variant": 2,
+  "seed": 20260532,
+  "prompt": "A bioluminescent coral reef canyon filled with schools of tropical fish, jellyfish pulses, drifting bubbles, iridescent scales, branching corals, caustic light patterns, colorful sea fans, tiny particles in the water, sweeping camera motion, extremely vivid color separation, high texture complexity.",
+  "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_02/group_02_variant_02_seed_20260532.mp4",
+  "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_02/group_02_variant_02_seed_20260532_latent.pt",
+  "video_bytes": 4325071,
+  "latent_bytes": 5193665,
+  "latent_shape": [
+    16,
+    13,
+    60,
+    104
+  ],
+  "fps": 16,
+  "elapsed_s": 122.20203113555908
+}

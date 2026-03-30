@@ -1,0 +1,18 @@
+{
+  "group": 10,
+  "variant": 1,
+  "seed": 20261331,
+  "prompt": "A fantasy forest ritual with glowing insects, swirling leaves, embroidered ceremonial capes, luminous mushrooms, moving fog, sparks from a fire circle, carved wooden masks, flickering torchlight, rich emerald and amber tones, layered motion, highly detailed bark, fabric, and foliage textures.",
+  "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_10/group_10_variant_01_seed_20261331.mp4",
+  "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_10/group_10_variant_01_seed_20261331_latent.pt",
+  "video_bytes": 3987124,
+  "latent_bytes": 5193665,
+  "latent_shape": [
+    16,
+    13,
+    60,
+    104
+  ],
+  "fps": 16,
+  "elapsed_s": 118.52958941459656
+}

@@ -72,3 +72,15 @@ High-level result on this sample:
 - A latent codec that looked near-MP4-quality before re-encoding can still lose about `2 dB` after the MP4 stage
 - To keep the *final* MP4 quality close to the baseline MP4, the latent codec must be noticeably less aggressive
 - Strong latent artifacts also hurt MP4 compressibility, so the output MP4 can become larger than the baseline MP4
+
+## Wan2.1 T2V 1.3B Batch With Saved Latents
+
+See `experiments/wan_t2v_1_3b_batch_10x2/` for a separate `Wan2.1-T2V-1.3B` batch generation run on an RTX 4090.
+
+High-level result:
+
+- `10` prompt groups were generated, with `2` videos per group, for `20` videos total
+- The run used `832x480`, `49` frames, `30` sampling steps, `unipc`, `guide_scale=6.0`, and `sample_shift=8.0`
+- For every video, the final denoised latent before VAE decode was saved alongside the MP4
+- The saved latent shape is consistently `16 x 13 x 60 x 104`
+- The batch artifacts include `20` MP4 files, `20` latent `.pt` files, per-sample metadata JSON files, and a top-level `manifest.json`

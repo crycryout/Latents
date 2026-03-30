@@ -1,0 +1,18 @@
+{
+  "group": 5,
+  "variant": 2,
+  "seed": 20260832,
+  "prompt": "A glass greenhouse jungle during a thunderstorm, exotic flowers opening and closing, butterflies swarming, rain racing down the panes, lightning flashes refracting through glass, wet leaves, moss, water droplets, layered foliage motion, lush saturated greens and flowers, extremely detailed textures.",
+  "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_05/group_05_variant_02_seed_20260832.mp4",
+  "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_05/group_05_variant_02_seed_20260832_latent.pt",
+  "video_bytes": 3838570,
+  "latent_bytes": 5193665,
+  "latent_shape": [
+    16,
+    13,
+    60,
+    104
+  ],
+  "fps": 16,
+  "elapsed_s": 118.8594901561737
+}

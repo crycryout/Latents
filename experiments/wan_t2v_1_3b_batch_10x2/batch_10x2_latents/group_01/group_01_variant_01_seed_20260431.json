@@ -1,0 +1,18 @@
+{
+  "group": 1,
+  "variant": 1,
+  "seed": 20260431,
+  "prompt": "A kinetic Rio carnival parade at night with feathered dancers, mirrored floats, spinning confetti cannons, wet reflective pavement, saturated neon magenta and cyan lights, intricate beadwork, sequins, smoke bursts, handheld camera energy, rapid costume motion, rich textures, dense crowd choreography.",
+  "video_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_01/group_01_variant_01_seed_20260431.mp4",
+  "latent_path": "/root/autodl-tmp/Wan2.1/outputs/batch_10x2_latents/group_01/group_01_variant_01_seed_20260431_latent.pt",
+  "video_bytes": 5282008,
+  "latent_bytes": 5193665,
+  "latent_shape": [
+    16,
+    13,
+    60,
+    104
+  ],
+  "fps": 16,
+  "elapsed_s": 123.68984866142273
+}
